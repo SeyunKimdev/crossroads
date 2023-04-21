@@ -16,7 +16,7 @@
 
 
 <h2>4. 퍼블리싱 담당 업무</h2>
-<img width="1160" alt="김세윤 퍼블리싱 진행률" src="https://user-images.githubusercontent.com/115637705/233586303-1b04713b-f958-4f3c-a92a-3415e5f59292.png" style = "width: 80%; height : 45%">
+<img width="1160" alt="김세윤 퍼블리싱 진행률" src="https://user-images.githubusercontent.com/115637705/233588356-9669ef05-31f5-425b-8efc-c770706235d2.png" style = "width: 80%; height : 45%">
 
 4-1. 관리자페이지
   - 관리자페이지 홈
@@ -31,7 +31,7 @@
   - 메인페이지
   
 <h2>5. 백엔드 담당 업무</h2>
-<img width="1160" alt="김세윤 백엔드 진행률" src="https://user-images.githubusercontent.com/115637705/233586292-d7fcb434-2c48-45f1-9946-4478a78e2ee3.png" style = "width: 80%; height : 45%">
+<img width="1160" alt="김세윤 백엔드 진행률" src="https://user-images.githubusercontent.com/115637705/233588353-7c004e09-9bdc-4493-8cfc-103ec7401bc6.png" style = "width: 80%; height : 45%">
 
 5-1. 마이페이지 - 초보자 회원
   - 마이페이지 회원정보 조회(이름, 이메일, 전화번호)
