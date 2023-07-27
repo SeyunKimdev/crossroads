@@ -39,7 +39,7 @@
 <img width="1160" alt="김세윤 백엔드 진행률" src="https://user-images.githubusercontent.com/115637705/233588353-7c004e09-9bdc-4493-8cfc-103ec7401bc6.png" style = "width: 80%; height : 45%">
 
 5-1. 모바일 - 베테랑 연수신청 목록(연수 수락, 거절)
-  - 연수신청 목록<br>
+  <strong>- 연수신청 목록</strong><br>
     (연수자의 간단한 정보와 연수 신청 코스 보임)<br>
     (다른 베테랑이 수락한 연수 신청은 나에게 보이지 않음)<br>
   - 연수 신청 목록에서 수락 가능<br>
